@@ -10,4 +10,4 @@ The form usually has a set of fields namely:
 - phone
 - message
 
-Instead of writing code each time you want to have this functionality , <b>expression</b>  allows you to just drop in this form and add your API endpoint for storing the form
+Instead of writing code each time you want to have this functionality , <b>expression</b>  allows you to just drop in this form and add your API endpoint for storing the form data
